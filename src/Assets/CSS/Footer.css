@@ -1,0 +1,41 @@
+.footer-div{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    height: auto;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 10px;
+    
+}
+.footer-logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 10px 150px;
+}
+.footer-card{
+    width: 30vw;
+    padding: 10px;
+}
+.footer-input{
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    width: 300px;
+}
+.footer-btn{
+    border: none;
+    padding: 5px;
+    width: 80px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 110px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow:  1px 1px rgba(131, 125, 125, 0.922) ;
+}

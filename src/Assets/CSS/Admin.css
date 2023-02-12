@@ -1,0 +1,52 @@
+.admin-input{
+
+    padding: 5px;
+    margin: 10px;
+    border-radius: 7px;
+    width: 300px;
+}
+.admin-btn{
+    border: none;
+    padding: 5px;
+    width: 80px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 50px;
+    border-radius: 10px;
+    box-shadow:  1px 1px rgba(131, 125, 125, 0.922) ;
+}
+ .admin-div{
+    font-weight: bolder;
+    border-radius: 10px;
+    box-shadow:  1px 1px rgba(131, 125, 125, 0.922) ;
+    padding: 80px 0px;
+    background-color: gainsboro;
+    height: 600px;
+    width: 680px;
+    text-align: center;
+    margin: 20px 350px;
+} 
+.error{
+    color: red;
+    text-align: end;
+    margin: 20px;
+}
+.map-btn{
+    border: none;
+    padding: 5px;
+    width: 80px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow:  1px 1px rgba(131, 125, 125, 0.922) ;
+    margin: 0px 10px;
+}
+.students-table{
+    text-align: center;
+    border:none;
+    padding: 10px;
+}

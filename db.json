@@ -1,0 +1,96 @@
+{
+  "FirstSemester": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "ManufacturingProcess3": [
+    {
+      "Question": "Laser Beam Machining",
+      "id": "b122f1fe-3527-4ad2-960e-d60c18d0ab30"
+    },
+    {
+      "id": "88acd96e-973c-4b80-9d42-e46995395d84",
+      "Question": "Classification Of CNC Tool"
+    }
+  ],
+  "Cad-Cam": [
+    {
+      "Question": "Bazier Curve",
+      "id": "7f8e1e42-a7f5-4bf3-a3c9-be2614fc0e87"
+    },
+    {
+      "Question": "B-Spline Curve",
+      "id": "5275f8f9-1277-4a0b-9798-2b31aac75f78"
+    },
+    {
+      "Question": "Milling And Turning Part Program for CNC",
+      "id": "a60993e1-7ba6-4387-a0c3-6d43c1522c7b"
+    }
+  ],
+  "Mechatronics": [
+    {
+      "id": "532cc677-af16-4ff1-8eb6-050a4f0fd0d8",
+      "Question": "Elements of Mechatronics"
+    },
+    {
+      "Question": "Selection of sensor",
+      "id": "7d2a37ce-098e-4e80-afbe-218452809578"
+    },
+    {
+      "Question": "Electric Drives",
+      "id": "29237c4d-b6bd-44df-af72-ee6767a04f93"
+    },
+    {
+      "Question": "Pnuematic Drives ",
+      "id": "3683f319-bb93-468c-8d0f-dd15dec4915a"
+    },
+    {
+      "Question": "Hydrolics Drive",
+      "id": "4c560bc5-0654-4da1-af88-740df4f4b381"
+    }
+  ],
+  "Managment": [
+    {
+      "id": "f4dac364-eec7-4de9-a3b8-54c18a3ffb4a",
+      "Question": ""
+    }
+  ],
+  "Heat-Transfer": [
+    {
+      "Question": "State Different Modes Of Heat Transfer",
+      "id": 1
+    },
+    {
+      "Question": "Define Critical radius of insulation",
+      "id": 2
+    },
+    {
+      "Question": "Write a short note on hydrodynamic Boundry Level",
+      "id": 3
+    }
+  ],
+  "Applied-Thermodynamics-1": [
+    {
+      "0": {
+        "id": "b9adcc05-5a33-48ed-812f-027f4829eac1",
+        "Question": ""
+      },
+      "Question": "Applied Thermodynamics",
+      "id": 1
+    }
+  ],
+  "Students-Details": [
+    {
+      "id": "e6efa7af-6cfc-4493-9b5c-fa1dc3a7594a",
+      "name": "",
+      "studentMobile": "",
+      "parentMobile": "",
+      "email": "",
+      "prn": "",
+      "admission": ""
+    }
+  ]
+}
